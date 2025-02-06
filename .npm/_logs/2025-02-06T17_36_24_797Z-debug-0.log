@@ -10,3 +10,24 @@
 9 verbose logfile /home/user/.npm/_logs/2025-02-06T17_36_24_797Z-debug-0.log
 10 silly packumentCache heap:2116812800 maxSize:529203200 maxEntrySize:264601600
 11 silly logfile done cleaning log files
+12 silly idealTree buildDeps
+13 silly fetch manifest @radix-ui/react-select@2.1.4
+14 silly packumentCache full:https://registry.npmjs.org/@radix-ui%2freact-select cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/npm 197ms
+16 http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-select 178ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/@radix-ui%2freact-select set size:undefined disposed:false
+18 silly fetch manifest @types/react@*
+19 silly packumentCache full:https://registry.npmjs.org/@types%2freact cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@types%2freact 98ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/@types%2freact set size:undefined disposed:false
+22 silly fetch manifest @types/react-dom@*
+23 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/@types%2freact-dom 66ms (cache miss)
+25 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom set size:undefined disposed:false
+26 silly fetch manifest react@^16.8 || ^17.0 || ^18.0 || ^19.0 || ^19.0.0-rc
+27 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+28 http fetch GET 200 https://registry.npmjs.org/react 144ms (cache miss)
+29 silly packumentCache full:https://registry.npmjs.org/react set size:undefined disposed:false
+30 silly fetch manifest react-dom@^16.8 || ^17.0 || ^18.0 || ^19.0 || ^19.0.0-rc
+31 silly packumentCache full:https://registry.npmjs.org/react-dom cache-miss
+32 http fetch GET 200 https://registry.npmjs.org/react-dom 131ms (cache miss)
